@@ -1,9 +1,9 @@
 What is Track Me?
 
-Track Me is a simple set of perl scripts that are intented to be deployed on client machines
+Track Me is a simple set of perl scripts that are intended to be deployed on client machines
 in order to offer faster and more secure support for home users.
 
-Track Me will eventully -
+Track Me will eventually -
 
 * Allow admin access to the computer via RDP/VNC/SSH
 * Download updates pushed to clients
@@ -11,11 +11,11 @@ Track Me will eventully -
 * Allow users to request support
 * Allow further addons to Track Me
 
-The basic concept involves giving users GnuPG identies in the support cycle, This identity
+The basic concept involves giving users GnuPG identities in the support cycle, This identity
 will be used to keep a track of any issues the users/clients have.
 
 The identity will also be used to encrypt data to and from the Track Me server ensuring no
 information is evesdropped.
 
 The core concept of the program is home support as such Track Me is a guest on the users machine.
-This means the program will not enforce any action uppon the user unless they agree.
+This means the program will not enforce any action upon the user unless they agree.
